@@ -1,0 +1,5 @@
+args = () kwargs = {} result = Hello World time_start = 2025-09-22 22:26:07.060600 name_function = hello_world
+args = (2, 2) kwargs = {} result = 4 time_start = 2025-09-22 22:26:07.060969 name_function = summator
+args = (6, 2) kwargs = {} result = 3.0 time_start = 2025-09-22 22:26:07.061226 name_function = div
+args = (4.3, 2.2) kwargs = {} result = 6.5 time_start = 2025-09-22 22:26:07.061458 name_function = summator
+args = () kwargs = {'a': 0, 'b': 0} result = 0 time_start = 2025-09-22 22:26:07.061620 name_function = summator
